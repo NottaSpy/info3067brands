@@ -1,0 +1,167 @@
+[
+  {
+    "Id": 1,
+    "Brand": "Logitech",
+    "ProductName": "Logitech G Pro Wireless",
+    "GraphicName": "g_pro_wireless.jpg",
+    "CostPrice": 50,
+    "MSRP": 120,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 5,
+    "Description": "The Logitech G Pro Wireless is a lightweight and high-performance gaming mouse designed for esports professionals."
+  },
+  {
+    "Id": 2,
+    "Brand": "Logitech",
+    "ProductName": "Logitech G502 HERO",
+    "GraphicName": "g502_hero.jpg",
+    "CostPrice": 40,
+    "MSRP": 80,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 2,
+    "Description": "The Logitech G502 HERO is a versatile gaming mouse with customizable weights and a highly accurate sensor."
+  },
+  {
+    "Id": 3,
+    "Brand": "Logitech",
+    "ProductName": "Logitech G Pro X Superlight",
+    "GraphicName": "g_pro_x_superlight.jpg",
+    "CostPrice": 60,
+    "MSRP": 150,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 0,
+    "Description": "The Logitech G Pro X Superlight is an ultra-lightweight gaming mouse designed for fast and precise movements."
+  },
+  {
+    "Id": 4,
+    "Brand": "Logitech",
+    "ProductName": "Logitech G403 HERO",
+    "GraphicName": "g403_hero.jpg",
+    "CostPrice": 45,
+    "MSRP": 90,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 1,
+    "Description": "The Logitech G403 HERO is a comfortable gaming mouse with a responsive sensor and customizable RGB lighting."
+  },
+  {
+    "Id": 5,
+    "Brand": "Logitech",
+    "ProductName": "Logitech G703 Lightspeed",
+    "GraphicName": "g703_lightspeed.jpg",
+    "CostPrice": 55,
+    "MSRP": 100,
+    "QtyOnHand": 35,
+    "QtyOnBackOrder": 3,
+    "Description": "The Logitech G703 Lightspeed is a wireless gaming mouse with a high-performance sensor and long battery life."
+  },
+  {
+    "Id": 6,
+    "Brand": "Razer",
+    "ProductName": "Razer DeathAdder V2",
+    "GraphicName": "deathadder_v2.jpg",
+    "CostPrice": 55,
+    "MSRP": 100,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 3,
+    "Description": "The Razer DeathAdder V2 is a popular ergonomic gaming mouse with a high-performance optical sensor."
+  },
+  {
+    "Id": 7,
+    "Brand": "Razer",
+    "ProductName": "Razer Naga Trinity",
+    "GraphicName": "naga_trinity.jpg",
+    "CostPrice": 65,
+    "MSRP": 120,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 1,
+    "Description": "The Razer Naga Trinity is a versatile gaming mouse with interchangeable side plates for different gaming styles."
+  },
+  {
+    "Id": 8,
+    "Brand": "Razer",
+"ProductName": "Razer Basilisk Ultimate",
+    "GraphicName": "basilisk_ultimate.jpg",
+    "CostPrice": 80,
+    "MSRP": 150,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 0,
+    "Description": "The Razer Basilisk Ultimate is a wireless gaming mouse with a highly customizable scroll wheel and excellent precision."
+  },
+  {
+    "Id": 9,
+    "Brand": "Razer",
+    "ProductName": "Razer Viper Ultimate",
+    "GraphicName": "viper_ultimate.jpg",
+    "CostPrice": 70,
+    "MSRP": 130,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 2,
+    "Description": "The Razer Viper Ultimate is an ambidextrous gaming mouse with a lightweight design and a focus on speed and accuracy."
+  },
+  {
+    "Id": 10,
+    "Brand": "Razer",
+    "ProductName": "Razer DeathAdder Elite",
+    "GraphicName": "deathadder_elite.jpg",
+    "CostPrice": 50,
+    "MSRP": 90,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 1,
+    "Description": "The Razer DeathAdder Elite is a comfortable gaming mouse with a highly accurate optical sensor and customizable Chroma RGB lighting."
+  },
+  {
+    "Id": 11,
+    "Brand": "SteelSeries",
+    "ProductName": "SteelSeries Rival 600",
+    "GraphicName": "rival_600.jpg",
+    "CostPrice": 55,
+    "MSRP": 100,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 2,
+    "Description": "The SteelSeries Rival 600 is a customizable gaming mouse with a dual sensor system for enhanced accuracy and performance."
+  },
+  {
+    "Id": 12,
+    "Brand": "SteelSeries",
+    "ProductName": "SteelSeries Sensei Ten",
+    "GraphicName": "sensei_ten.jpg",
+    "CostPrice": 50,
+    "MSRP": 90,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 1,
+    "Description": "The SteelSeries Sensei Ten is a professional-grade gaming mouse with a TrueMove Pro sensor for precise tracking."
+  },
+  {
+    "Id": 13,
+    "Brand": "SteelSeries",
+    "ProductName": "SteelSeries Aerox 3 Wireless",
+    "GraphicName": "aerox_3_wireless.jpg",
+    "CostPrice": 60,
+    "MSRP": 120,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 0,
+    "Description": "The SteelSeries Aerox 3 Wireless is an ultra-lightweight gaming mouse with a durable design and long-lasting battery life."
+  },
+  {
+    "Id": 14,
+    "Brand": "SteelSeries",
+    "ProductName": "SteelSeries Rival 3",
+    "GraphicName": "rival_3.jpg",
+    "CostPrice": 35,
+    "MSRP": 70,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 3,
+    "Description": "The SteelSeries Rival 3 is a budget-friendly gaming mouse with a high-precision sensor and customizable RGB lighting."
+  },
+  {
+    "Id": 15,
+    "Brand": "SteelSeries",
+    "ProductName": "SteelSeries Rival 650",
+    "GraphicName": "rival_650.jpg",
+    "CostPrice": 70,
+    "MSRP": 130,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 0,
+    "Description": "The SteelSeries Rival 650 is a wireless gaming mouse with Quantum Wireless technology and fast charging capabilities."
+  }
+]
